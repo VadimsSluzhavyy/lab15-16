@@ -1,0 +1,17 @@
+{
+  "name": "socket-chat-example",
+  "version": "1.0.0",
+  "description": "my first socket.io app",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^1.7.3",
+    "webrtc.io": "0.0.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
